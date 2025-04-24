@@ -5,6 +5,14 @@ LinkHub is a web platform designed for users to create, customize, and share col
 ## Core Purpose
 LinkHub is a web platform designed for users to create, customize, and share collections of URLs. It allows users to compile multiple links into a single, shareable list with a custom URL.
 
+## Goals 
+1. **Simplify Multi-Link Sharing:** The core purpose is to enable users to compile multiple URLs into a single, easily shareable list. This addresses the need to share numerous resources without sending multiple links.   
+2. **Enhance User Control and Customization:** The platform aims to provide users significant control over their link collections through features like creating, editing, categorizing, deleting, and archiving lists. It also emphasizes customization by allowing custom URLs and list names.   
+3. **Provide a Centralized Resource Management Hub:** LinkHub aims to serve as a central place where users can manage all their curated URL collections through a dedicated dashboard.   
+4. **Facilitate Seamless Sharing and Accessibility:** The goal is to make sharing simple and ensure recipients have a smooth, straightforward experience viewing the shared link collections. This includes publishing lists publicly and providing easy sharing mechanisms.   
+5. **Offer Flexibility in Link Organization:** Users should be able to categorize lists and include individual URLs in multiple collections, providing flexibility in how they organize and reuse their curated links.   
+6. **Enable Collaborative List Management (for Recipients):** The workflow for recipients suggests a goal of allowing some level of interaction or personalization with the received lists, such as adding/deleting URLs and saving the list under a custom name. 
+
 ## Key Features
 
 ### List Creation and Management
